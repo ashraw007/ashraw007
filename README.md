@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/ashish rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish rawat" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ashish singh rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish singh rawat" height="30" width="40" /></a>
 <a href="https://instagram.com/ashraw007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashraw007" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ashraw007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashraw007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishsrawat98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishsrawat98" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashishsrawat98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishsrawat98" height="30" width="40" /></a>
 <a href="https://discord.gg/ashraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashraw" height="30" width="40" /></a>
@@ -31,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraw007&show_icons=true&locale=en" alt="ashraw007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashraw007&" alt="ashraw007" /></p>
-
